@@ -1,4 +1,4 @@
-# deepank portfolio
+# Deepank portfolio
 
 Hey! Welcome to my portfolio. 
 
